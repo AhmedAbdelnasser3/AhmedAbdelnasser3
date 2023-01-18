@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedabdelnasser3&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedabdelnasser3" /> </p>
 
-- 🌱 I’m currently learning **Data science specialization ,Datacamp**
+- 🔭 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
 
-- 💬 Ask me about **Data ,ML**
+- 💬 Ask me about : Python, SQL, Statistics, Tableau, PowerBI
 
 - 📫 How to reach me **ahmedabdelnasser014@gmail.com**
 
